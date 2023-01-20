@@ -1,4 +1,4 @@
-# Install ns-2.35 and nam-1.15 on ArchLinux(EndeavorOS) 
+# Install ns-2.35 and nam-1.15 on ArchLinux(EndeavourOS) 
 ## Install gcc-4.8 
 - If you don't have 'yay', install it. 
   - Clone [yay](https://aur.archlinux.org/packages/yay)
