@@ -21,6 +21,10 @@
     cd ns-allinone-2.35/
   ```
 ## Install nam-1.15 and ns-2.35
+- First install dependencies 
+```bash 
+   sudo pacman -S libx11 libxmu
+```
 - To install, run 
 ```bash 
     export CC=gcc-4.8 CXX=g++-4.8 && ./install 
